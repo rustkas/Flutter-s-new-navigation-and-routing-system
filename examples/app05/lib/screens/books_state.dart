@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'model/book.dart';
+import '../model/book.dart';
 
 class BooksAppState extends ChangeNotifier {
   int _selectedIndex;

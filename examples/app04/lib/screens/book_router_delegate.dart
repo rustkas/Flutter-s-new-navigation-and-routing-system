@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 import 'book_details_page.dart';
 import 'books_list_screen.dart';
-import 'model/book.dart';
-import 'model/book_route_path.dart';
+import '../model/book.dart';
+import '../model/book_route_path.dart';
 import 'no_animation_transition_delegate.dart';
 import 'unknown_screen.dart';
 

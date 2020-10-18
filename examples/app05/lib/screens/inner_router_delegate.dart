@@ -4,8 +4,8 @@ import 'book_details_screen.dart';
 import 'books_list_screen.dart';
 import 'books_state.dart';
 import 'fade_animation_page.dart';
-import 'model/book.dart';
-import 'model/book_route_path.dart';
+import '../model/book.dart';
+import '../model/book_route_path.dart';
 import 'settings_screen.dart';
 
 class InnerRouterDelegate extends RouterDelegate<BookRoutePath>

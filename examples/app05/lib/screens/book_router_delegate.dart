@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'app_shell.dart';
 import 'books_state.dart';
-import 'model/book_route_path.dart';
+import '../model/book_route_path.dart';
 
 class BookRouterDelegate extends RouterDelegate<BookRoutePath>
     with ChangeNotifier, PopNavigatorRouterDelegateMixin<BookRoutePath> {

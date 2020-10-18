@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'books_state.dart';
-import 'model/book_route_path.dart';
+import '../model/book_route_path.dart';
 
 class BookRouteInformationParser extends RouteInformationParser<BookRoutePath> {
   @override
